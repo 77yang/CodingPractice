@@ -56,6 +56,6 @@
 
     <properties>
         <commons-lang3-version>3.5</commons-lang3-version>
-        <commons-commons-io-version>2.5</commons-commons-io-version>
+        <commons-commons-io-version>2.7</commons-commons-io-version>
     </properties>
 </project>
